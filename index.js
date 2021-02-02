@@ -1,4 +1,4 @@
-// const span = document.querySelector('.jokes')
+const span = document.querySelector('.jokes')
 const btn = document.querySelector('.btn');
 const getjokes = async()=>{
     try{
